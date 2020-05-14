@@ -4,6 +4,14 @@
 
 ## Project goals:
 
+Component Structure
+
+      App
+    /   |            \
+ Nav  MainContainer  HelloWorld
+        |
+      PigTile
+      
 * create an index displaying all hog tiles
 * render each hog name and picture in a tile
 * show the hog's details upon a user's click
